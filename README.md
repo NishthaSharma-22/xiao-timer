@@ -2,6 +2,8 @@
 
 basically, a little pcb timer i made to help me keep track of time
 
+<img src="images/pcb_w_3d_models.png" alt="image of pcb with 3d models" width="400px">
+
 ### features
 
 - you can set timer for diff times depending on the number of button clicks or press type:
@@ -54,11 +56,25 @@ basically, a little pcb timer i made to help me keep track of time
 </tr>
 </table>
 
----
+- leds light up in order to show the time elapsed
+- all leds light up + buzzer beeps when the time is up
+- some easter eggs here and there!
 
 ### pcb
 
 the pcb was designed in kicad
+#### schematic:
+<img src="images/schematic.png" alt="image of pcb with 3d models">
+
+#### the pcb:
+
+<div>
+<img src="images/pcb_front.png" alt="image of pcb with 3d models" width="400px">
+<img src="images/pcb_back.png" alt="image of pcb with 3d models" width="400px">
+</div>
+
+
+
 
 ### components used
 
